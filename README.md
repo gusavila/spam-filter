@@ -2,11 +2,11 @@
 
 A modern take on the classic [FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-regular-expressions-by-building-a-spam-filter), redesigned with a neobrutalism UI aesthetic. This project filters messages containing spam keywords using JavaScript Regular Expressions and provides instant feedback to the user in a bold, playful interface.
 
-## Preview
+## 📷 Preview
 
-![Spam Filter Preview](./spam_filter_preview.webp);
+[![Spam Filter Preview](./spam_filter_preview.webp)](https://gusavila.github.io/spam-filter/);
 
-## Features
+## ✨ Features
 
 - Detects common spam phrases using regular expressions
 
@@ -17,7 +17,7 @@ A modern take on the classic [FreeCodeCamp JavaScript Algorithms and Data Struct
 - Responsive design for desktop and mobile
 
 
-## Technologies Used
+## 💻 Technologies Used
 
 HTML5
 
@@ -25,7 +25,7 @@ CSS3 (Neobrutalism design)
 
 JavaScript (ES6+)
 
-## How It Works
+## 🔧 How It Works
 
 1. User types a message in the input field.
 
