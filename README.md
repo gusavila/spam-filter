@@ -4,7 +4,7 @@ A modern take on the classic [FreeCodeCamp JavaScript Algorithms and Data Struct
 
 ## 📷 Preview
 
-[![Spam Filter Preview](./spam_filter_preview.webp)](https://gusavila.github.io/spam-filter/);
+[![Spam Filter Preview](./spam_filter_preview.webp)](https://gusavila.github.io/spam-filter/)
 
 ## ✨ Features
 
@@ -34,6 +34,14 @@ JavaScript (ES6+)
 3. If a spam phrase is detected, a message feedback appears with a warning.
 
 4. If no spam is detected, a message feedback confirms the message is clean.
+
+## Common Spam Words / Phrases
+
+- D3ar Fr1end
+- Fr3e M0n3y
+- please help
+- St0ck 4lert
+- 10 thousand dollars
 
 ## 🚀 Getting Started
 
