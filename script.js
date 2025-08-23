@@ -22,8 +22,8 @@ checkMessageButton.addEventListener("click", () => {
   const spam = isSpam(messageInput.value);
 
   result.textContent = spam
-    ? `Bruh, this message faker than them Gucci belts at the flea market!`
-    : `Aight, this one look clean. No spam vibes on it`;
+    ? `Oops! This message looks a bit spammy. Try rephrasing it to keep it clean.`
+    : `All good! Your message passed the vibe check — no spam here.`;
 
   result.className = spam
     ? "alert"
